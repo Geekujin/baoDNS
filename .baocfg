@@ -1,7 +1,8 @@
 API_KEY=PUBLIC KEY HERE
 API_SECRET=SECRET KEY HERE
-DOMAIN=ENTER YOUR DOMAIN NAME
-SUBDOMAIN=SUBDOMAIN OPTIONAL
+DOMAIN=example.com
+SUBDOMAIN=www
 RECORD_TYPE=A
 
 # This has only been tested using A records so far
+# SUBDOMAIN can be left blank to update only the primary domain. Wildcard (*) subdomain also supported
