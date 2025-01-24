@@ -19,3 +19,6 @@ File can then be run using `python3 baodns.py`
 - Separate API Key and DNS records into separate files.
 - Allow specifying different config files at the command line.
 - Ability to add or delete DNS records via command line or config files.
+
+
+(cute Baobun image via [Vecteezy.com](https://vecteezy.com)
